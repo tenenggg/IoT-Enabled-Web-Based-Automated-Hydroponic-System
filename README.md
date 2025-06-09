@@ -109,11 +109,13 @@ Link your bot to backend logic to respond to pH/EC commands and send threshold a
 
 Pumps are triggered for 3 seconds and turned off to avoid over-correction.
 
-📁 Folder Structure
+##📁 Folder Structure
 ![image alt]()
 
-📐 Circuit Diagram
+
+##📐 Circuit Diagram
 ![image alt](circuit_image.png)
 
-📝 License
+
+##📝 License
 This project is licensed under the MIT License.
