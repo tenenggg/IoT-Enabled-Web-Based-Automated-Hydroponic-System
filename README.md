@@ -28,7 +28,7 @@ A full-stack IoT system designed for real-time monitoring and automated control 
 
 ## 📷 Demo
 
-![image alt]()
+![image alt](register.jpg)
 ![image alt]()
 ![image alt]()
 ![image alt]()
