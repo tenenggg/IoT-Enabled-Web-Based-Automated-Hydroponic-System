@@ -22,16 +22,20 @@ A full-stack IoT system designed for real-time monitoring and automated control 
 
 ## 🧠 System Architecture
 
-![image alt]()
+![image alt](architecture_diagram.png)
 
 ---
 
 ## 📷 Demo
 
 ![image alt](register.jpg)
-![image alt]()
-![image alt]()
-![image alt]()
+Register Page
+![image alt](login.jpg)
+Login Page
+![image alt](user_dashboard.jpg)
+User Dashboard
+![image alt](admin_dashboard.jpg)
+Admin Dashboard
 
 ---
 
@@ -102,7 +106,7 @@ Pumps are triggered for 3 seconds and turned off to avoid over-correction.
 ![image alt]()
 
 📐 Circuit Diagram
-![image alt]()
+![image alt](circuit_image.png)
 
 📝 License
 This project is licensed under the MIT License.
