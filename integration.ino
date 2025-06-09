@@ -9,8 +9,8 @@
 #include <EEPROM.h>
 
 // === WiFi and Supabase ===
-const char* ssid = "WaliNurin97";
-const char* password = "Akutahu_12";
+const char* ssid = "your wifi ssid";
+const char* password = "your wifi password";
 const char* supabaseUrl = "https://nshoxougnzhvtxvyyskq.supabase.co";
 const char* supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5zaG94b3VnbnpodnR4dnl5c2txIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI0MDAzOTAsImV4cCI6MjA1Nzk3NjM5MH0.bktULAQH8aTFeW9TVUWbW-XyLOEn1VV0befxl9Mnonk";
 
