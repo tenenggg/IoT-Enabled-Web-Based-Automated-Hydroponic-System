@@ -39,7 +39,10 @@ Backend: Supabase + Node.js
 
 ## 📷 Demo
 
-> _Insert screenshots of the dashboard and Telegram alerts here if available_
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 
 ---
 
@@ -107,13 +110,9 @@ Link your bot to backend logic to respond to pH/EC commands and send threshold a
 Pumps are triggered for 3 seconds and turned off to avoid over-correction.
 
 📁 Folder Structure
-├── firmware/         # Arduino/ESP32 Code
-├── dashboard/        # ReactJS Web Dashboard
-├── backend/          # Node/Telegram integration
-└── docs/             # Circuit diagrams, setup instructions
-
+![image alt]()
 📐 Circuit Diagram
-
+![image alt]()
 
 📝 License
 This project is licensed under the MIT License.
