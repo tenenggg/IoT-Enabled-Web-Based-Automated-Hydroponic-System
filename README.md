@@ -22,18 +22,7 @@ A full-stack IoT system designed for real-time monitoring and automated control 
 
 ## 🧠 System Architecture
 
-ESP32 (C++/Arduino)
-├── Reads sensor data (DS18B20, pH, EC)
-├── Pushes data to Supabase
-├── Pulls plant thresholds from Supabase
-└── Controls 4 water pumps via relay
-
-Frontend: React + ApexCharts
-└── Displays real-time & historical data from Supabase
-
-Backend: Supabase + Node.js
-├── Auth & Database
-└── Telegram Bot integration
+![image alt]()
 
 ---
 
