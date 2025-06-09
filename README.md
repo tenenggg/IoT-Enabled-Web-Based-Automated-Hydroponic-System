@@ -98,7 +98,9 @@ Use BotFather to create a bot
 
 Link your bot to backend logic to respond to pH/EC commands and send threshold alerts
 
-🤖 Automated Pump Logic
+---
+
+##🤖 Automated Pump Logic
 
 | Condition    | Action          |
 | ------------ | --------------- |
@@ -109,13 +111,19 @@ Link your bot to backend logic to respond to pH/EC commands and send threshold a
 
 Pumps are triggered for 3 seconds and turned off to avoid over-correction.
 
+---
+
 ##📁 Folder Structure
 ![image alt]()
 
 
+---
+
 ##📐 Circuit Diagram
 ![image alt](circuit_image.png)
 
+
+---
 
 ##📝 License
 This project is licensed under the MIT License.
