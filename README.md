@@ -114,7 +114,7 @@ Pumps are triggered for 3 seconds and turned off to avoid over-correction.
 ---
 
 ## 📁 Folder Structure
-![image alt]()
+![image alt](folder_structure.jpeg)
 
 
 ---
