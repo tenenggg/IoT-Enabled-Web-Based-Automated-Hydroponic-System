@@ -55,7 +55,8 @@ Admin Dashboard
 | Analog pH Sensor   | For pH level measurement               |
 | Analog EC Sensor   | For electrical conductivity            |
 | 4-Channel Relay    | Controls 4 pumps                       |
-| Water Pumps        | Nutrient & pH adjustment               |
+| Peristaltic Pumps       |  pH and water adjustment               |
+| Dual Channel Peristaltic Pumps       |  Nutrient adjustment               |
 | Jumper wires, Breadboard, Power source, Tubing, etc.        |
 
 ---
