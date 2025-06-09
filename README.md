@@ -29,12 +29,19 @@ A full-stack IoT system designed for real-time monitoring and automated control 
 ## 📷 Demo
 
 ![image alt](register.jpg)
+
 Register Page
+
 ![image alt](login.jpg)
+
 Login Page
+
 ![image alt](user_dashboard.jpg)
+
 User Dashboard
+
 ![image alt](admin_dashboard.jpg)
+
 Admin Dashboard
 
 ---
