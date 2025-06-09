@@ -3,9 +3,9 @@ const TelegramBot = require('node-telegram-bot-api');
 
 // Replace these with your actual values
 const SUPABASE_URL = 'https://nshoxougnzhvtxvyyskq.supabase.co';
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5zaG94b3VnbnpodnR4dnl5c2txIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI0MDAzOTAsImV4cCI6MjA1Nzk3NjM5MH0.bktULAQH8aTFeW9TVUWbW-XyLOEn1VV0befxl9Mnonk';
-const TELEGRAM_BOT_TOKEN = '7591041183:AAEE6ZabiP3Mer8uS185odlyoG__wJFaeLc';
-const TELEGRAM_CHAT_ID = '987422319';
+const SUPABASE_ANON_KEY = 'your supabase anon key';
+const TELEGRAM_BOT_TOKEN = '7your telegram bot token';
+const TELEGRAM_CHAT_ID = 'your telegram chat id';
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 const bot = new TelegramBot(TELEGRAM_BOT_TOKEN, { polling: true });
