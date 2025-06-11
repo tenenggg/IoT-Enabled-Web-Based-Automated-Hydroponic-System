@@ -44,6 +44,14 @@ User Dashboard
 
 Admin Dashboard
 
+![image alt](telesample1.jpg)
+
+Telegram Bot 
+
+![image alt](telesample2.jpg)
+
+Telegram Bot
+
 ---
 
 ## 🔧 Hardware Requirements
