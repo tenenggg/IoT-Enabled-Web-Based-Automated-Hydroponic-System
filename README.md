@@ -44,11 +44,11 @@ User Dashboard
 
 Admin Dashboard
 
-![image alt](telesample1.jpg)
+![image alt](telesample1.jpeg)
 
 Telegram Bot 
 
-![image alt](telesample2.jpg)
+![image alt](telesample2.jpeg)
 
 Telegram Bot
 
