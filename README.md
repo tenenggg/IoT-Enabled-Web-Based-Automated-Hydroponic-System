@@ -46,11 +46,11 @@ Admin Dashboard
 
 ![image alt](telesample1.jpeg)
 
-Telegram Bot 
+Telegram Bot Check And Notify
 
 ![image alt](telesample2.jpeg)
 
-Telegram Bot
+Telegram Bot Commands
 
 ---
 
